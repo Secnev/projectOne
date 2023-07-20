@@ -1,6 +1,5 @@
 # ITCS-6114 Project One
 David Vences
-Project for course ITCS-6114
 
 ## BACKGROUND
 In  this project I implemented some comparison-based sorting algorithms and observed performance for different input sizes.
